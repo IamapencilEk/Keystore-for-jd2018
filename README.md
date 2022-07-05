@@ -14,7 +14,7 @@ Keystore Copyright by lenovo
 
 # Ways to use
 
-1.使用Recovery（如Twrp）刷入
+1.使用Recovery（如Twrp）刷入vendor分区
 
 2.使用文件管理器将补丁目录下文件复制到手机system\vendor下相应位置即可
 
