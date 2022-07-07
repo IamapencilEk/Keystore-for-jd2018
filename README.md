@@ -20,7 +20,4 @@ Keystore Copyright by lenovo
 
 # 此补丁刷入后，不更换vendor镜像，将不会失效，如果android12启动后发生问题（如无sim卡，卡顿等）请清除data数据再试一次即可
 
-# 不要黑我家kunkun，他真的很努力，你们要荔枝！不香翅捞饭就苏珊！
-
-你干嘛啊！哎哟~
 
