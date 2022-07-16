@@ -1,3 +1,7 @@
+# 本项目已废弃，本人心理负担较大，修bug技术不好，所以被迫停止这个项目，有待谅解
+
+以下是最后一版的vendor，不会再随mokee的更新而更新
+
 # Keystore-for-jd2018
 
 修补lenovoz5 在android12及以上在keystore的bug，此Bug会导致锁定屏幕密码无法使用/重启UI闪退等问题
